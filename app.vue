@@ -4,7 +4,7 @@
       <!-- Foto Profil -->
       <div class="profile-section">
         <div class="profile-image">
-          <img src="./images/Foto Jas Putih.PNG" alt="Profile Picture" />
+          <img src="./images/Foto.png" alt="Profile Picture" />
         </div>
         <h1>{{ name }}</h1>
         <p>{{ bio }}</p>
